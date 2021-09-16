@@ -78,10 +78,7 @@ if(isset($_SESSION['email'])<> 0) {
     </script>
     <script src="assets/vendor/wow/wow.min.js"></script>
     <script src="assets/vendor/animsition/animsition.min.js"></script>
-    <script src="assets/vendor/bootstrap-progressbar/bootstrap-progressbar.min.js">
-    </script>
-    <script src="assets/vendor/counter-up/jquery.waypoints.min.js"></script>
-    <script src="assets/vendor/counter-up/jquery.counterup.min.js">
+
     </script>
     <script src="assets/vendor/circle-progress/circle-progress.min.js"></script>
     <script src="assets/vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
